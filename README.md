@@ -46,9 +46,13 @@ Saves the final painting as realistic_painting.jpg.
 
 The processed image will be saved in the same directory as realistic_painting.jpg.
 Example output:
+
 Input: 
+
 ![your_image](https://github.com/user-attachments/assets/5796d194-fcdd-43c3-8109-5aaa47053bf6)
+
 Output: 
+
 ![realistic_painting](https://github.com/user-attachments/assets/f606b4d1-42f6-4b7c-8708-a5020af1ea56)
 
 
